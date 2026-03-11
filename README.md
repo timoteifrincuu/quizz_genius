@@ -1,17 +1,33 @@
-# quiz_genius
+# 🎓 QuizGenius - Generator Automant de Chestionare (PWA)
 
-A new Flutter project.
+**QuizGenius** este o aplicație modernă dezvoltată în Flutter care transformă orice suport de curs (PDF sau text) într-un chestionar interactiv folosind Inteligența Artificială. Aplicația este optimizată ca PWA (Progressive Web App), putând fi instalată direct din browser.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Caracteristici principale
+- **Încărcare PDF:** Extrage automat textul din fișierele tale de curs.
+- **Integrare AI (Groq/Gemini):** Generează întrebări inteligente și variante de răspuns în câteva secunde.
+- **Interfață Intuitivă:** Design curat, cu animații fluide și mod de utilizare simplu.
+- **Multi-platformă:** Rulează pe Web, Android și iOS (via PWA).
+- **Splash Screen personalizat:** Experiență de utilizare premium încă de la deschidere.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tehnologii folosite
+- **Framework:** [Flutter](https://flutter.dev)
+- **AI Engine:** [Groq Cloud / Gemini API]
+- **Hosting:** [Firebase Hosting](https://firebase.google.com/)
+- **PDF Processing:** `syncfusion_flutter_pdf`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📦 Instalare ca PWA
+Pentru a instala aplicația pe telefon:
+1. Deschide link-ul aplicației în Chrome (Android) sau Safari (iOS).
+2. Apasă pe **"Add to Home Screen"** (Adaugă pe ecranul principal).
+3. Bucură-te de experiența completă, fără bara de browser!
+
+---
+
+## 👨‍💻 Autor
+**[Timotei Frincu]** - Proiect de licență / Dezvoltare aplicații mobile.
